@@ -1,2 +1,2 @@
 # First-
-Tetris Game for Deploy Softwear Portfolio
+Tetris Game for Deploy Software Portfolio
